@@ -13,3 +13,6 @@ in the terminal, inside the project folder put this commands:
 </ol>
 
 <h2>Result</h2>
+
+![fortuneCookie](https://user-images.githubusercontent.com/83776453/175648037-9f358623-c1a7-4e33-ba4f-d06db336de1f.gif)
+
